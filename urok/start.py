@@ -25,3 +25,7 @@ if month_of_birth == current_month:
             age=age
 
 print("Вам", age, "лет")
+
+
+
+
